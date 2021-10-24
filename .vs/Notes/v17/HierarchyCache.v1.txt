@@ -1,0 +1,264 @@
+﻿++Solution 'Notes' ‎(5 of 5 projects)
+i:{00000000-0000-0000-0000-000000000000}:Notes.sln
+++Presentation
+i:{00000000-0000-0000-0000-000000000000}:Presentation
+++Notes.WebApi
+i:{db7222c3-6137-445d-ac16-46a8f3da077b}:Notes.WebApi
+++Connected Services 
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:>1288
+++Dependencies
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:>1287
+i:{d23a8cae-08ab-44fc-8842-c043e156bab5}:>684
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:>1162
+i:{224609bc-b905-4520-8767-b34b1d3d0770}:>685
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:>686
+++Properties
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\users\msi-pc\source\repos\notes\notes.webapi\properties\
+++Controllers
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\users\msi-pc\source\repos\notes\notes.webapi\controllers\
+++BaseController.cs
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\users\msi-pc\source\repos\notes\notes.webapi\controllers\basecontroller.cs
+++NoteController.cs
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\users\msi-pc\source\repos\notes\notes.webapi\controllers\notecontroller.cs
+++Middleware
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\users\msi-pc\source\repos\notes\notes.webapi\middleware\
+++Models
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\users\msi-pc\source\repos\notes\notes.webapi\models\
+++appsettings.json
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\users\msi-pc\source\repos\notes\notes.webapi\appsettings.json
+++Program.cs
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\users\msi-pc\source\repos\notes\notes.webapi\program.cs
+++Startup.cs
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\users\msi-pc\source\repos\notes\notes.webapi\startup.cs
+++No service dependencies discovered
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:>1289
+++Analyzers
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:analyzers
+i:{d23a8cae-08ab-44fc-8842-c043e156bab5}:analyzers
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:analyzers
+i:{224609bc-b905-4520-8767-b34b1d3d0770}:analyzers
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:analyzers
+++Frameworks
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:frameworks
+i:{d23a8cae-08ab-44fc-8842-c043e156bab5}:frameworks
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:frameworks
+i:{224609bc-b905-4520-8767-b34b1d3d0770}:frameworks
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:frameworks
+++Packages
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:packages
+i:{d23a8cae-08ab-44fc-8842-c043e156bab5}:packages
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:packages
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:packages
+++Projects
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:projects
+i:{d23a8cae-08ab-44fc-8842-c043e156bab5}:projects
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:projects
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:projects
+++launchSettings.json
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\users\msi-pc\source\repos\notes\notes.webapi\properties\launchsettings.json
+++CustomExceptionHandlerMiddleware.cs
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\users\msi-pc\source\repos\notes\notes.webapi\middleware\customexceptionhandlermiddleware.cs
+++CustomExceptionHandlerMiddlewareExtensions.cs
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\users\msi-pc\source\repos\notes\notes.webapi\middleware\customexceptionhandlermiddlewareextensions.cs
+++CreateNoteDto.cs
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\users\msi-pc\source\repos\notes\notes.webapi\models\createnotedto.cs
+++UpdateNoteDto.cs
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\users\msi-pc\source\repos\notes\notes.webapi\models\updatenotedto.cs
+++appsettings.Development.json
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\users\msi-pc\source\repos\notes\notes.webapi\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\program files\dotnet\sdk\6.0.100-rc.2.21505.57\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\program files\dotnet\sdk\6.0.100-rc.2.21505.57\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\program files\dotnet\sdk\6.0.100-rc.2.21505.57\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\program files\dotnet\sdk\6.0.100-rc.2.21505.57\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{d23a8cae-08ab-44fc-8842-c043e156bab5}:c:\program files\dotnet\sdk\6.0.100-rc.2.21505.57\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:c:\program files\dotnet\sdk\6.0.100-rc.2.21505.57\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{224609bc-b905-4520-8767-b34b1d3d0770}:c:\program files\dotnet\sdk\6.0.100-rc.2.21505.57\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\program files\dotnet\sdk\6.0.100-rc.2.21505.57\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\program files\dotnet\sdk\6.0.100-rc.2.21505.57\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{d23a8cae-08ab-44fc-8842-c043e156bab5}:c:\program files\dotnet\sdk\6.0.100-rc.2.21505.57\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:c:\program files\dotnet\sdk\6.0.100-rc.2.21505.57\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{224609bc-b905-4520-8767-b34b1d3d0770}:c:\program files\dotnet\sdk\6.0.100-rc.2.21505.57\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\program files\dotnet\sdk\6.0.100-rc.2.21505.57\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\users\msi-pc\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.11\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{d23a8cae-08ab-44fc-8842-c043e156bab5}:c:\users\msi-pc\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.11\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:c:\users\msi-pc\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.11\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.11\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\users\msi-pc\source\repos\notes\notes.webapi\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\users\msi-pc\source\repos\notes\notes.webapi\microsoft.netcore.app
+i:{d23a8cae-08ab-44fc-8842-c043e156bab5}:c:\users\msi-pc\source\repos\notes\notes.persistance\microsoft.netcore.app
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:c:\users\msi-pc\source\repos\notes\notest.tests\microsoft.netcore.app
+i:{224609bc-b905-4520-8767-b34b1d3d0770}:c:\users\msi-pc\source\repos\notes\notes.domain\microsoft.netcore.app
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\microsoft.netcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (8.1.1)
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:>1347
+++Microsoft.AspNetCore.Authentication.JwtBearer (5.0.11)
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:>1349
+++Swashbuckle.AspNetCore (6.2.3)
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:>1348
+++Notes.Application
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\users\msi-pc\source\repos\notes\notes.application\notes.application.csproj
+i:{d23a8cae-08ab-44fc-8842-c043e156bab5}:c:\users\msi-pc\source\repos\notes\notes.application\bin\debug\net5.0\notes.application.dll
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:c:\users\msi-pc\source\repos\notes\notes.application\bin\debug\net5.0\notes.application.dll
+i:{25bb6f15-3c04-4f70-91fb-1da155b157f4}:Notes.Application
+++Notes.Persistance
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\users\msi-pc\source\repos\notes\notes.persistance\notes.persistance.csproj
+i:{e8766948-40d4-4106-b6d6-4aa618022599}:Notes.Persistance
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:c:\users\msi-pc\source\repos\notes\notes.persistance\bin\debug\net5.0\notes.persistance.dll
+++Infrastructure
+i:{00000000-0000-0000-0000-000000000000}:Infrastructure
+++EntityTypeConfiguration
+i:{d23a8cae-08ab-44fc-8842-c043e156bab5}:c:\users\msi-pc\source\repos\notes\notes.persistance\entitytypeconfiguration\
+++DbInitializer.cs
+i:{d23a8cae-08ab-44fc-8842-c043e156bab5}:c:\users\msi-pc\source\repos\notes\notes.persistance\dbinitializer.cs
+++DependencyInjection.cs
+i:{d23a8cae-08ab-44fc-8842-c043e156bab5}:c:\users\msi-pc\source\repos\notes\notes.persistance\dependencyinjection.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\dependencyinjection.cs
+++NotesDbContext.cs
+i:{d23a8cae-08ab-44fc-8842-c043e156bab5}:c:\users\msi-pc\source\repos\notes\notes.persistance\notesdbcontext.cs
+++NotesConfiguration.cs
+i:{d23a8cae-08ab-44fc-8842-c043e156bab5}:c:\users\msi-pc\source\repos\notes\notes.persistance\entitytypeconfiguration\notesconfiguration.cs
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.11)
+i:{d23a8cae-08ab-44fc-8842-c043e156bab5}:>1329
+++Tests
+i:{00000000-0000-0000-0000-000000000000}:Tests
+++Notest.Tests
+i:{1fd2a3fe-9c60-4d05-be4a-79fc509e19b4}:Notest.Tests
+++Common
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:c:\users\msi-pc\source\repos\notes\notest.tests\common\
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\common\
+++Notes
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:c:\users\msi-pc\source\repos\notes\notest.tests\notes\
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\
+++NotesContextFactory.cs
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:c:\users\msi-pc\source\repos\notes\notest.tests\common\notescontextfactory.cs
+++QueryTestFixture.cs
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:c:\users\msi-pc\source\repos\notes\notest.tests\common\querytestfixture.cs
+++TestCommandBase.cs
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:c:\users\msi-pc\source\repos\notes\notest.tests\common\testcommandbase.cs
+++Commands
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:c:\users\msi-pc\source\repos\notes\notest.tests\notes\commands\
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\commands\
+++Queries
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:c:\users\msi-pc\source\repos\notes\notest.tests\notes\queries\
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\queries\
+++xunit.analyzers
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:c:\users\msi-pc\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+++coverlet.collector (3.0.2)
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:>1325
+++Microsoft.EntityFrameworkCore.InMemory (5.0.11)
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:>1318
+++Microsoft.NET.Test.Sdk (16.9.4)
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:>1313
+++Shouldly (4.0.3)
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:>1311
+++xunit (2.4.1)
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:>1315
+++xunit.runner.visualstudio (2.4.3)
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:>1322
+++CreateNoteCommandHandlerTests.cs
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:c:\users\msi-pc\source\repos\notes\notest.tests\notes\commands\createnotecommandhandlertests.cs
+++DeleteNoteCommandHandlerTests.cs
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:c:\users\msi-pc\source\repos\notes\notest.tests\notes\commands\deletenotecommandhandlertests.cs
+++UpdateNoteCommandHandlerTests.cs
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:c:\users\msi-pc\source\repos\notes\notest.tests\notes\commands\updatenotecommandhandlertests.cs
+++GetNoteDetailsHandlerTests.cs
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:c:\users\msi-pc\source\repos\notes\notest.tests\notes\queries\getnotedetailshandlertests.cs
+++GetNoteListQueryHandlerTests.cs
+i:{9b031748-ee4c-4a32-9e2b-6e4414e1514a}:c:\users\msi-pc\source\repos\notes\notest.tests\notes\queries\getnotelistqueryhandlertests.cs
+++Core
+i:{00000000-0000-0000-0000-000000000000}:Core
+++Notes.Domain
+i:{25bb6f15-3c04-4f70-91fb-1da155b157f4}:Notes.Domain
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.domain\bin\debug\net5.0\notes.domain.dll
+++Note.cs
+i:{224609bc-b905-4520-8767-b34b1d3d0770}:c:\users\msi-pc\source\repos\notes\notes.domain\note.cs
+++Exceptions
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\exceptions\
+++Interfaces
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\interfaces\
+++Behaviors
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\common\behaviors\
+++Mappings
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\common\mappings\
+++NotFoundException.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\exceptions\notfoundexception.cs
+++INotesDbContext.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\interfaces\inotesdbcontext.cs
+++AutoMapper (10.1.1)
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:>1321
+++FluentValidation (10.3.3)
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:>1319
+++FluentValidation.DependencyInjectionExtensions (10.3.3)
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:>1310
+++MediatR (9.0.0)
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:>1316
+++MediatR.Extensions.Microsoft.DependencyInjection (9.0.0)
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:>1326
+++Microsoft.EntityFrameworkCore (5.0.11)
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:>1314
+++ValidationBehavior.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\common\behaviors\validationbehavior.cs
+++AssemblyMappingProfile.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\common\mappings\assemblymappingprofile.cs
+++IMapWIth.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\common\mappings\imapwith.cs
+++CreateNote
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\commands\createnote\
+++DeleteNote
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\commands\deletenote\
+++UpdateNote
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\commands\updatenote\
+++GetNoteDetails
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\queries\getnotedetails\
+++GetNoteList
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\queries\getnotelist\
+++CreateNoteCommand.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\commands\createnote\createnotecommand.cs
+++CreateNoteCommandHandler.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\commands\createnote\createnotecommandhandler.cs
+++CreateNoteCommandValidator.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\commands\createnote\createnotecommandvalidator.cs
+++DeleteNoteCommand.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\commands\deletenote\deletenotecommand.cs
+++DeleteNoteCommandHandler.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\commands\deletenote\deletenotecommandhandler.cs
+++DeleteNoteValidator.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\commands\deletenote\deletenotevalidator.cs
+++UpdateNoteCommand.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\commands\updatenote\updatenotecommand.cs
+++UpdateNoteCommandHandler.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\commands\updatenote\updatenotecommandhandler.cs
+++UpdateNoteCommandValidator.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\commands\updatenote\updatenotecommandvalidator.cs
+++GetNoteDetailsQuery.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\queries\getnotedetails\getnotedetailsquery.cs
+++GetNoteDetailsQueryHandler.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\queries\getnotedetails\getnotedetailsqueryhandler.cs
+++GetNoteDetailsValidator.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\queries\getnotedetails\getnotedetailsvalidator.cs
+++NoteDetailsVm.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\queries\getnotedetails\notedetailsvm.cs
+++GetNoteListQuery.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\queries\getnotelist\getnotelistquery.cs
+++GetNoteListQueryHandler.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\queries\getnotelist\getnotelistqueryhandler.cs
+++GetNoteListQueryValidator.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\queries\getnotelist\getnotelistqueryvalidator.cs
+++NoteListVm.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\queries\getnotelist\notelistvm.cs
+++NoteLookUpDto.cs
+i:{46733685-b7d9-449d-9b6d-62e0b8eaffe4}:c:\users\msi-pc\source\repos\notes\notes.application\notes\queries\getnotelist\notelookupdto.cs
+++Microsoft.AspNetCore.Mvc.Versioning (5.0.0)
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:>1359
+++ConfigureSwaggerOptions.cs
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:c:\users\msi-pc\source\repos\notes\notes.webapi\configureswaggeroptions.cs
+++Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer (5.0.0)
+i:{9fdeafd4-d119-4261-ae31-3bd143b2c10d}:>1364

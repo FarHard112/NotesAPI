@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "224609bc-b905-4520-8767-b34b1d3d0770": {
+      "ProjectGuid": "224609bc-b905-4520-8767-b34b1d3d0770",
+      "DisplayName": "Notes.Domain",
+      "ColorIndex": 0
+    },
+    "46733685-b7d9-449d-9b6d-62e0b8eaffe4": {
+      "ProjectGuid": "46733685-b7d9-449d-9b6d-62e0b8eaffe4",
+      "DisplayName": "Notes.Application",
+      "ColorIndex": 1
+    },
+    "9fdeafd4-d119-4261-ae31-3bd143b2c10d": {
+      "ProjectGuid": "9fdeafd4-d119-4261-ae31-3bd143b2c10d",
+      "DisplayName": "Notes.WebApi",
+      "ColorIndex": 2
+    },
+    "d23a8cae-08ab-44fc-8842-c043e156bab5": {
+      "ProjectGuid": "d23a8cae-08ab-44fc-8842-c043e156bab5",
+      "DisplayName": "Notes.Persistance",
+      "ColorIndex": 3
+    },
+    "9b031748-ee4c-4a32-9e2b-6e4414e1514a": {
+      "ProjectGuid": "9b031748-ee4c-4a32-9e2b-6e4414e1514a",
+      "DisplayName": "Notest.Tests",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

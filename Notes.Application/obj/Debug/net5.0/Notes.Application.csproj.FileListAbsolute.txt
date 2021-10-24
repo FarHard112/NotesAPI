@@ -1,0 +1,15 @@
+C:\Users\MSI-PC\source\repos\Notes\Notes.Application\bin\Debug\net5.0\Notes.Application.deps.json
+C:\Users\MSI-PC\source\repos\Notes\Notes.Application\bin\Debug\net5.0\Notes.Application.dll
+C:\Users\MSI-PC\source\repos\Notes\Notes.Application\bin\Debug\net5.0\ref\Notes.Application.dll
+C:\Users\MSI-PC\source\repos\Notes\Notes.Application\bin\Debug\net5.0\Notes.Application.pdb
+C:\Users\MSI-PC\source\repos\Notes\Notes.Application\bin\Debug\net5.0\Notes.Domain.dll
+C:\Users\MSI-PC\source\repos\Notes\Notes.Application\bin\Debug\net5.0\Notes.Domain.pdb
+C:\Users\MSI-PC\source\repos\Notes\Notes.Application\obj\Debug\net5.0\Notes.Application.csproj.AssemblyReference.cache
+C:\Users\MSI-PC\source\repos\Notes\Notes.Application\obj\Debug\net5.0\Notes.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-PC\source\repos\Notes\Notes.Application\obj\Debug\net5.0\Notes.Application.AssemblyInfoInputs.cache
+C:\Users\MSI-PC\source\repos\Notes\Notes.Application\obj\Debug\net5.0\Notes.Application.AssemblyInfo.cs
+C:\Users\MSI-PC\source\repos\Notes\Notes.Application\obj\Debug\net5.0\Notes.Application.csproj.CoreCompileInputs.cache
+C:\Users\MSI-PC\source\repos\Notes\Notes.Application\obj\Debug\net5.0\Notes.Application.csproj.CopyComplete
+C:\Users\MSI-PC\source\repos\Notes\Notes.Application\obj\Debug\net5.0\Notes.Application.dll
+C:\Users\MSI-PC\source\repos\Notes\Notes.Application\obj\Debug\net5.0\ref\Notes.Application.dll
+C:\Users\MSI-PC\source\repos\Notes\Notes.Application\obj\Debug\net5.0\Notes.Application.pdb
